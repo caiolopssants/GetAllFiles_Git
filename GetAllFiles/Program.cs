@@ -39,7 +39,6 @@ namespace GetAllFiles
             //        }
             //    }
             //}
-
             Console.ReadKey();
         }
 
